@@ -8,5 +8,5 @@ This project is a hand gesture recognition program that uses OpenCV, Mediapipe, 
 4. Run "train dataset.py", the dataset will be trained in 50 epochs and 16 batch sizes, using DNN architecture.
 5. Once completed, the model will be saved in .h5 format.
 6. Run "test model.py" to see the reading results from the model
-## Demo Video
+## Demo Video (Bahasa Indonesia)
 https://youtu.be/zke7S1L47Vs
