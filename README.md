@@ -9,3 +9,4 @@ This project is a hand gesture recognition program that uses OpenCV, Mediapipe, 
 5. Once completed, the model will be saved in .h5 format.
 6. Run "test model.py" to see the reading results from the model
 ## Demo Video
+https://youtu.be/zke7S1L47Vs
